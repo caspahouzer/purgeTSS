@@ -39,7 +39,7 @@
 		"@fortawesome/fontawesome-free": "^5.15.1",
 		"@tailwindcss/ui": "^0.6.2",
 		"read-css": "^0.3.0",
-		"tailwindcss": "^2.0.0-alpha.12"
+		"tailwindcss": "^2.0.0-alpha.25-compat"
 	},
 	"dependencies": {
 		"arg": "^4.1.3",
